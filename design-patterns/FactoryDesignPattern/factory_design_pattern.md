@@ -6,7 +6,7 @@ The Factory design pattern is a creational design pattern that provides a way to
 
 ## Implementation
 
-```JavaScript
+```TypeScript
 interface Car {
   model: string;
   fuelType: string;
