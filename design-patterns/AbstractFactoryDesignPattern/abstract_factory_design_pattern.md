@@ -6,7 +6,7 @@ The primary objective of the Abstract Factory pattern is to provide a mechanism 
 
 <hr>
 
-## Implementation
+## Implementation
 
 ```TypeScript
 interface Chair {
