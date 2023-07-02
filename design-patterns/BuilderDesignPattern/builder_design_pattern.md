@@ -86,7 +86,7 @@ console.log(newHouse.getDetails());
 
 <hr>
 
-## Description
+## Description
 
 **Module 1: House**
 
