@@ -77,6 +77,7 @@ const newHouse = houseBuilder
   .setFoundation("Concrete")
   .setInterior("Modern")
   .setStructure("Brick")
+  .setRoof("Wood")
   .getHouse();
 
 console.log(newHouse.getDetails());
