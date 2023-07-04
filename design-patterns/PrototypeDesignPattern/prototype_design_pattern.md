@@ -54,7 +54,7 @@ clonedMeal.getMeal();
 
 <hr>
 
-## Description
+## Description
 
 Let's break down the code module by module and explain how it implements the Prototype design pattern:
 
