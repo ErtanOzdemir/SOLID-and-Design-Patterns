@@ -1,4 +1,4 @@
-# Prototyype Design Pattern
+# Prototype Design Pattern
 
 The Prototype design pattern is a creational design pattern that allows objects to be cloned or copied. It is used when creating new objects by copying existing objects is more convenient or efficient than creating them from scratch.
 
